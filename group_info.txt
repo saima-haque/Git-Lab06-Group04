@@ -7,3 +7,7 @@ Member 4: Name: Afia Mahpara - Student ID: 2023-2-60-011
 Course Code: CSE412
 Lab Work: 06
 Topic: Git Repository
+
+Department: Computer Science and Engineering
+University: East West University
+Git Learning Status: In Progress
