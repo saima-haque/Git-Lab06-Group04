@@ -1,0 +1,31 @@
+1. git --version - Displays the installed Git version.
+
+
+2. git config --global --list - Displays the global Git configuration.
+
+
+3. git init - Initializes a local Git repository.
+
+
+4. git status - Displays the current repository status.
+
+
+5. git add group_info.txt - Stages the specified file for commit.
+
+
+6. git commit -m "Initial commit" - Saves staged changes as a commit.
+
+
+7. git log --oneline - Displays the commit history in a short format.
+
+
+8. git diff - Displays changes made to files.
+
+
+9. git branch -M main - Renames the current branch to main.
+
+
+10. git remote add origin YOUR_REPOSITORY_URL - Connects the local repository to a remote GitHub repository.
+
+
+11. git push -u origin main - Uploads local commits to GitHub and sets the upstream branch.
