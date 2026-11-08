@@ -1,0 +1,9 @@
+Group Number: XX
+Member 1: Name: Syma Haque Roshni - Student ID: 2023-1-60-110
+Member 2: Name: Sirazam Munira - Student ID: 2023-1-60-115
+Member 3: Name: Sunjida Sikder Sumaya - Student ID: 2023-1-60-227
+Member 4: Name: Afia Mahpara - Student ID: 2023-2-60-011
+
+Course Code: CSE412
+Lab Work: 06
+Topic: Git Repository
